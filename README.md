@@ -135,8 +135,6 @@ Contributions, issues, and feature requests are welcome!
 
 **GitHub:** [https://github.com/SNO7E-G](https://github.com/SNO7E-G)
 
-**Email:** sno7e.dev@gmail.com
-
 **License:** MIT
 
 ---
